@@ -10,6 +10,8 @@ A reusable Codex skill that turns support tickets, priority rules, and a service
 
 [Reproduce both recorded cases and check the window calculation](docs/reworkio-demo.md). The second input leaves out a receipt time to show how the skill handles incomplete data.
 
+[Download the technical proof (PDF)](docs/Support-SLA-Triage-Technical-Proof.pdf).
+
 ## Use your own policy
 
 Supply the tickets and their receipt timestamps, the ordered priority rules, the SLA budget for each priority, and the service time zone, weekly hours, and exceptions. The skill reports the matched rule and counted windows so a support operator can check the result before using it.
